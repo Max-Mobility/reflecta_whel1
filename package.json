@@ -1,0 +1,24 @@
+{
+  "name": "reflecta_whel1",
+  "version": "1.0.2",
+  "description": "Node.js package for reflecta interface spec for whel1.",
+  "main": "whel1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-mobility/reflecta_whel1.git"
+  },
+  "keywords": [
+    "reflecta",
+    "whel1",
+    "node.js"
+  ],
+  "author": "William Emfinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/max-mobility/reflecta_whel1/issues"
+  },
+  "homepage": "https://github.com/max-mobility/reflecta_whel1#readme"
+}
